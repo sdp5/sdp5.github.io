@@ -8,7 +8,7 @@ prev: blog/events/
 This August, I had the incredible opportunity to attend **PyCon AU 2023**, held at the picturesque Adelaide Convention Centre, right on the bank of the Torrens River. It was my first tech conference in Australia, and the excitement of sharing this experience with my colleagues made it even more memorable.
 
 <center>
-    <img alt="" src="https://raw.githubusercontent.com/sdp5/sdp5.github.io/refs/heads/source/source/images/pycon2023/IMG_1869.jpg" width="350"/>
+    <img alt="" src="https://raw.githubusercontent.com/sdp5/sdp5.github.io-jekyll/refs/heads/source/source/images/pycon2023/IMG_1869.jpg" width="350"/>
 </center>
 
 The conference kicked off on a powerful note with J. Rosenbaum, a Melbourne-based AI artist and researcher, delivering the opening keynote titled _“Roll for Initiative: how to make the world of AI a more ethical place.”_ The talk was a compelling dive into the ethical considerations surrounding artificial intelligence, urging the tech community to think deeply about the systems we build and the values we encode into them.

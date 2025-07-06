@@ -16,25 +16,25 @@ Transtats Fedora instance is running at https://transtats.fedoraproject.org and 
 * Click on `Fedora Login` button and login into the system using your Fedora Credentials.
 
 <center>
-    <img alt="" src="https://github.com/sdp5/sdp5.github.io/blob/source/source/images/ts-get-started/1-fedora-login.png?raw=true?raw=true" width="350"/>
+    <img alt="" src="https://github.com/sdp5/sdp5.github.io-jekyll/blob/source/source/images/ts-get-started/1-fedora-login.png?raw=true?raw=true" width="350"/>
 </center>
 
 * After logged-in, click on `Packages` link. (*This will take you to packages list page*)
 
 <center>
-    <img alt="" src="https://github.com/sdp5/sdp5.github.io/blob/source/source/images/ts-get-started/2-packages-link.png?raw=true?raw=true" width="350"/>
+    <img alt="" src="https://github.com/sdp5/sdp5.github.io-jekyll/blob/source/source/images/ts-get-started/2-packages-link.png?raw=true?raw=true" width="350"/>
 </center>
 
 * Click on `Add Package` button to add your package in Transtats.
 
 <center>
-    <img alt="" src="https://github.com/sdp5/sdp5.github.io/blob/source/source/images/ts-get-started/3-add-package.png?raw=true?raw=true" width="350"/>
+    <img alt="" src="https://github.com/sdp5/sdp5.github.io-jekyll/blob/source/source/images/ts-get-started/3-add-package.png?raw=true?raw=true" width="350"/>
 </center>
 
 * Enter `Package Name` and `Upstream URL`. Select `Translation Platform` and check `Fedora`.
 
 <center>
-    <img alt="" src="https://github.com/sdp5/sdp5.github.io/blob/source/source/images/ts-get-started/4-package-form.png?raw=true?raw=true" width="500"/>
+    <img alt="" src="https://github.com/sdp5/sdp5.github.io-jekyll/blob/source/source/images/ts-get-started/4-package-form.png?raw=true?raw=true" width="500"/>
 </center>
 
 * Finally, click on `Add Package` button to validate and register the package with Transtats.
@@ -45,51 +45,51 @@ Transtats Fedora instance is running at https://transtats.fedoraproject.org and 
 * Sync the package with `Translation Platform`; this will generate `Branch Mapping` also.
 
 <center>
-    <img alt="" src="https://github.com/sdp5/sdp5.github.io/blob/source/source/images/ts-get-started/5-sync-platform.png?raw=true?raw=true" width="400"/>
+    <img alt="" src="https://github.com/sdp5/sdp5.github.io-jekyll/blob/source/source/images/ts-get-started/5-sync-platform.png?raw=true?raw=true" width="400"/>
 </center>
 
 * Once branch mapping is created, sync the package with `Koji` build system.
 
 <center>
-    <img alt="" src="https://github.com/sdp5/sdp5.github.io/blob/source/source/images/ts-get-started/6-sync-buildsys.png?raw=true?raw=true" width="400"/>
+    <img alt="" src="https://github.com/sdp5/sdp5.github.io-jekyll/blob/source/source/images/ts-get-started/6-sync-buildsys.png?raw=true?raw=true" width="400"/>
 </center>
 
 * This will take you to the syncdownstream YML job; uncheck *Dry Run* and run the job!
 
 <center>
-    <img alt="" src="https://github.com/sdp5/sdp5.github.io/blob/source/source/images/ts-get-started/7-job-run.png?raw=true?raw=true" width="500"/>
+    <img alt="" src="https://github.com/sdp5/sdp5.github.io-jekyll/blob/source/source/images/ts-get-started/7-job-run.png?raw=true?raw=true" width="500"/>
 </center>
 
 * Go back to package's detail page and locate statistics from `koji` build system.
 
 <center>
-    <img alt="" src="https://github.com/sdp5/sdp5.github.io/blob/source/source/images/ts-get-started/8-locate-stats.png?raw=true?raw=true" width="350"/>
+    <img alt="" src="https://github.com/sdp5/sdp5.github.io-jekyll/blob/source/source/images/ts-get-started/8-locate-stats.png?raw=true?raw=true" width="350"/>
 </center>
 
 * Click on `Statistics Diff` to update diff and know - which languages need attention.
     * This is based on branch mapping generated of the respective package.
 
 <center>
-    <img alt="" src="https://github.com/sdp5/sdp5.github.io/blob/source/source/images/ts-get-started/9-stats-diff.png?raw=true?raw=true" width="400"/>
+    <img alt="" src="https://github.com/sdp5/sdp5.github.io-jekyll/blob/source/source/images/ts-get-started/9-stats-diff.png?raw=true?raw=true" width="400"/>
 </center>
 
 * This will indicate languages in which the package is out of sync.
 
 <center>
-    <img alt="" src="https://github.com/sdp5/sdp5.github.io/blob/source/source/images/ts-get-started/10-out-of-sync.png?raw=true?raw=true" width="350"/>
+    <img alt="" src="https://github.com/sdp5/sdp5.github.io-jekyll/blob/source/source/images/ts-get-started/10-out-of-sync.png?raw=true?raw=true" width="350"/>
 </center>
 
 ##### Finally, update releases and packages summary.
 * Go to `Dashboard` (*landing page*) and click to refresh summary.
 
 <center>
-    <img alt="" src="https://github.com/sdp5/sdp5.github.io/blob/source/source/images/ts-get-started/11-release-summary.png?raw=true?raw=true" width="500"/>
+    <img alt="" src="https://github.com/sdp5/sdp5.github.io-jekyll/blob/source/source/images/ts-get-started/11-release-summary.png?raw=true?raw=true" width="500"/>
 </center>
 
 * Similary for packages - click on `Packages - Translation Completeness` tab and refresh summary.
 
 <center>
-    <img alt="" src="https://github.com/sdp5/sdp5.github.io/blob/source/source/images/ts-get-started/12-package-summary.png?raw=true?raw=true" width="500"/>
+    <img alt="" src="https://github.com/sdp5/sdp5.github.io-jekyll/blob/source/source/images/ts-get-started/12-package-summary.png?raw=true?raw=true" width="500"/>
 </center>
 
 ## Limitations

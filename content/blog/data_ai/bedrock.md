@@ -2,7 +2,7 @@
 title: Generative AI with AWS Bedrock
 type: blog
 date: 2025-04-20 15:10:04 +0530
-prev: blog/desktop/
+prev: blog/data_ai/
 sidebar:
   open: true
 

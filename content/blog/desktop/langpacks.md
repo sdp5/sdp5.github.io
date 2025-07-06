@@ -14,7 +14,7 @@ Fedora Linux Operating System has strong language support. Underneath, there are
 * Select language from modal box and logoff-login the session.
 
 <center>
-    <img alt="" src="https://github.com/sdp5/sdp5.github.io/blob/source/source/images/autoinstall-langpacks/switch-lang.png?raw=true" width="450"/>
+    <img alt="" src="https://github.com/sdp5/sdp5.github.io-jekyll/blob/source/source/images/autoinstall-langpacks/switch-lang.png?raw=true" width="450"/>
 </center>
 
 Here, the user has selected Japanese language. As soon as the user logs into the new session, Japanese `locale data` would be triggered and applications would appear in Japanese.  Language data available in langpacks (*language packs*) include fonts, input methods, translations etc.
@@ -32,7 +32,7 @@ Now, with the [implementation](https://gitlab.gnome.org/GNOME/gnome-software/mer
 Because this is a `background task`, no notifications are popped, however here is how a debug message is logged.
 
 <center>
-    <img alt="" src="https://github.com/sdp5/sdp5.github.io/blob/source/source/images/autoinstall-langpacks/langpacks-ja.png?raw=true" width="450"/>
+    <img alt="" src="https://github.com/sdp5/sdp5.github.io-jekyll/blob/source/source/images/autoinstall-langpacks/langpacks-ja.png?raw=true" width="450"/>
 </center>
 
 If the user uninstalls the language meta package, this feature will not automatically reinstall it. Users can still reinstall the meta package manually if they wish to use it again.
