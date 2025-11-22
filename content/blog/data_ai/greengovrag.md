@@ -31,6 +31,12 @@ It's an **open-source AI-powered assistant** that makes navigating regulations a
 
 ---
 
+<center>
+    <img alt="" src="/blog/data_ai/images/greengovrag.png"/>
+</center>
+
+---
+
 ## What is GreenGovRAG?
 
 GreenGovRAG is an **AI Retrieval-Augmented Generation (RAG) system** tailored for Australian environmental and planning regulations.
