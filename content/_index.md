@@ -2,7 +2,7 @@
 toc: true
 ---
 
-Software engineer with 14 years of experience in web backend development, data engineering, and GenAI apps—skilled in Python (Django/Flask), data pipelines, GNOME apps development, and cloud/DevOps tools (AWS, OpenShift)—bringing technical depth and business context from both startup and enterprise environments.
+Software developer with over a decade of experience in web backend development, data engineering, and GenAI apps—skilled in Python (Django/Flask), data pipelines, GNOME apps development, and cloud/DevOps tools (AWS, OpenShift)—bringing technical depth and business context from both startup and enterprise environments.
 
 ## Blog
 
