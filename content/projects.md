@@ -12,7 +12,8 @@ GreenGovRAG is an AI-powered Retrieval-Augmented Generation (RAG) platform desig
 Stack: `Python`, `FastAPI`, `REST`, `PostgreSQL`, `Qdrant`, `React`, `LLMs`, `LangChain`
 
 References -
-[Application](https://greengovrag.sundeep.id.au/) | 
+[Application](https://greengovrag.sundeep.id.au/) |
+[dev.to](https://dev.to/sdp5/building-greengovrag-31ba) |
 [GitHub](https://github.com/sdp5/green-gov-rag)
 
 
